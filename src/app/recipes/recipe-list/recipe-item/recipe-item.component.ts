@@ -4,6 +4,9 @@ import { Recipe } from '../../recipe.model';
 
 
 @Component({
+
+  /*Child of recipe-item */
+
   selector: 'app-recipe-item',
   templateUrl: './recipe-item.component.html',
   styleUrls: ['./recipe-item.component.css']
